@@ -18,8 +18,7 @@ A full-stack web application designed to streamline event and ticket management.
 3.  [Usage](#️-usage)
 4.  [API Endpoints](#-api-endpoints)
 5.  [Contributing](#-contributing)
-6.  [License](#-license)
-7.  [Contact](#-contact)
+6.  [Contact](#-contact)
 
 ---
 
